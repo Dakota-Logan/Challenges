@@ -1,0 +1,11 @@
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.exe
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.deps.json
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.runtimeconfig.json
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.runtimeconfig.dev.json
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.dll
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\bin\Debug\netcoreapp3.1\Classic Algorithms.pdb
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\obj\Debug\netcoreapp3.1\Classic Algorithms.csprojAssemblyReference.cache
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\obj\Debug\netcoreapp3.1\Classic Algorithms.AssemblyInfoInputs.cache
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\obj\Debug\netcoreapp3.1\Classic Algorithms.AssemblyInfo.cs
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\obj\Debug\netcoreapp3.1\Classic Algorithms.dll
+C:\Users\Xeliu\RiderProjects\Classic Algorithms\obj\Debug\netcoreapp3.1\Classic Algorithms.pdb

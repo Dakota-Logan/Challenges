@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f54cc6b-8fa1-4490-b31c-fe59fa7564ed" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Collatz Conjecture/Collatz.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Seive of Eratosthenes/SoE.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Closest Pair/Closest_Pair.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Collatz Conjecture/Collatz.cs" />
+        <option value="$PROJECT_DIR$/Closest Pair/Closest_Pair.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Seive of Eratosthenes/SoE.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xj8RFArsLUlVyb5wZhteYMCEwR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Classic Algorithms" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Classic Algorithms.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f54cc6b-8fa1-4490-b31c-fe59fa7564ed" name="Default Changelist" comment="" />
+      <created>1581548132278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581548132278</updated>
+      <workItem from="1581548133922" duration="2812000" />
+      <workItem from="1581571029199" duration="6693000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state x="696" y="350" key="FileChooserDialogImpl" timestamp="1581615820257">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state x="696" y="350" key="FileChooserDialogImpl/0.40.1805.1163/2256.40.1920.1040@0.40.1805.1163" timestamp="1581615820257" />
+    <state x="2996" y="317" key="FileChooserDialogImpl/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581550541018" />
+    <state width="1764" height="297" key="GridCell.Tab.0.bottom" timestamp="1581615883924">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state width="1764" height="297" key="GridCell.Tab.0.bottom/0.40.1805.1163/2256.40.1920.1040@0.40.1805.1163" timestamp="1581615883924" />
+    <state width="1879" height="257" key="GridCell.Tab.0.bottom/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581550948683" />
+    <state width="1764" height="297" key="GridCell.Tab.0.bottom/0.40.1805.1163@0.40.1805.1163" timestamp="1581611917208" />
+    <state width="1764" height="297" key="GridCell.Tab.0.center" timestamp="1581615883924">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state width="1764" height="297" key="GridCell.Tab.0.center/0.40.1805.1163/2256.40.1920.1040@0.40.1805.1163" timestamp="1581615883924" />
+    <state width="1879" height="257" key="GridCell.Tab.0.center/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581550948683" />
+    <state width="1764" height="297" key="GridCell.Tab.0.center/0.40.1805.1163@0.40.1805.1163" timestamp="1581611917208" />
+    <state width="1764" height="297" key="GridCell.Tab.0.left" timestamp="1581615883924">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state width="1764" height="297" key="GridCell.Tab.0.left/0.40.1805.1163/2256.40.1920.1040@0.40.1805.1163" timestamp="1581615883924" />
+    <state width="1879" height="257" key="GridCell.Tab.0.left/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581550948683" />
+    <state width="1764" height="297" key="GridCell.Tab.0.left/0.40.1805.1163@0.40.1805.1163" timestamp="1581611917208" />
+    <state width="1764" height="297" key="GridCell.Tab.0.right" timestamp="1581615883924">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state width="1764" height="297" key="GridCell.Tab.0.right/0.40.1805.1163/2256.40.1920.1040@0.40.1805.1163" timestamp="1581615883924" />
+    <state width="1879" height="257" key="GridCell.Tab.0.right/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581550948683" />
+    <state width="1764" height="297" key="GridCell.Tab.0.right/0.40.1805.1163@0.40.1805.1163" timestamp="1581611917208" />
+    <state x="2808" y="294" key="Rider.ProjectTemplateDialog.Size" timestamp="1581548132567">
+      <screen x="2256" y="40" width="1920" height="1040" />
+    </state>
+    <state x="2808" y="294" key="Rider.ProjectTemplateDialog.Size/0.40.1805.1163/2256.40.1920.1040@2256.40.1920.1040" timestamp="1581548132567" />
+    <state x="560" y="276" width="670" height="676" key="search.everywhere.popup" timestamp="1581572528098">
+      <screen x="0" y="40" width="1805" height="1163" />
+    </state>
+    <state x="560" y="276" width="670" height="676" key="search.everywhere.popup/0.40.1805.1163@0.40.1805.1163" timestamp="1581572528098" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Xeliu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Xeliu\\.nuget\\packages"
+    ]
+  }
+}
