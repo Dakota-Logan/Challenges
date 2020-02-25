@@ -5,5 +5,5 @@
 Product class: `
 price, id, quantity
 `<br/>Inventory class: `
-products, , quantity,
+products, , quantity
 `
